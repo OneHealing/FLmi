@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ab4d83d.css",
+    "main.js": "/static/js/main.4c6b7c52.js",
+    "static/js/787.8bb33c60.chunk.js": "/static/js/787.8bb33c60.chunk.js",
+    "static/media/bg-spiderman.jpg": "/static/media/bg-spiderman.f016222ac6ad4ceb0d60.jpg",
+    "static/media/bg-cinema.jpg": "/static/media/bg-cinema.b7163ed6c59d15eaf3cf.jpg",
+    "index.html": "/index.html",
+    "main.3ab4d83d.css.map": "/static/css/main.3ab4d83d.css.map",
+    "main.4c6b7c52.js.map": "/static/js/main.4c6b7c52.js.map",
+    "787.8bb33c60.chunk.js.map": "/static/js/787.8bb33c60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ab4d83d.css",
+    "static/js/main.4c6b7c52.js"
+  ]
+}
